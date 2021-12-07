@@ -1,0 +1,9 @@
+20211207 Data for the Chao et al. paper
+e.tjongkimsang(a)esciencecenter.nl
+
+20211207_municipalities.csv : 88,564 tweet ids used for municipality counts
+20211207_provinces.csv      : 96,864 tweet ids used for province counts
+20211207_readme.txt         : this file
+
+All tweets used for municipality counts have also been used for province counts.
+For an additional 8,300 tweets used for province counts, the municipality was unknown. 
