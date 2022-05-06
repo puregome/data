@@ -4,8 +4,8 @@ Data related to the Chao et al. paper:
 
 | **File**                     | **Description**                               |
 |----------------------------- | --------------------------------------------- |
-| 20211207\_municipalities.csv | 88,564 tweet ids used for municipality counts |
-| 20211207\_provinces.csv      | 96,864 tweet ids used for province counts     |
+| 20211207\_municipalities.csv | ids and predicted labels for 88,564 tweets used for municipality counts |
+| 20211207\_provinces.csv      | ids and predicted labels for 96,864 tweets used for province counts     |
 | 20211207\_readme.txt         | readme file with additional information       |
 
 These files are used by the notebook [social-distancing-aggregate.ipynb](https://github.com/puregome/notebooks/blob/master/social-distancing-aggregate.ipynb).
