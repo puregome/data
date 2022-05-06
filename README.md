@@ -21,6 +21,6 @@ For an additional 8,300 tweets used for province counts, the municipality was un
 
 These files are summaries of the files used by the notebook [ieee.ipynb](https://github.com/puregome/notebooks/blob/master/ieee.ipynb) and others.
 The annotated data files contain two columns: tweet id (td\_str) and label. There are 
-three labels: EENS (agrees with the policy), ONEENS (rejects the policy) and ANDERS
-(other). Tweets labelled ANDERS (other) have not been included in the final analysis.
+three labels: EENS (supports the policy), ONEENS (rejects the policy) and ANDERS
+(irrelevant). Tweets labelled ANDERS (irrelevant) have not been included in the final analysis.
 
